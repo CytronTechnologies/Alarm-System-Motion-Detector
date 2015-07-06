@@ -1,0 +1,1 @@
+This project will use PIC16F876A to control the alarm system (buzzer & LED) with a PIR Sensor (Motion Detector).Compatible with MPLAB IDE with HITECH C compiler MPLABX with HITECH C compiler v9.83/v9.82/v9.8 and XC8 compiler.
